@@ -1,0 +1,146 @@
+{
+	"type": "FeatureCollection",
+	"name": "badaz",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Mesjid Nurul Maai" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.815800149292727, -6.620646534736911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Al-ikhlas" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.811720518672985, -6.621325967562502]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Raya Bogor" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.808612737267936, -6.607254556871037]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Al Baroqah" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.802812047104581, -6.602601873975656]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Batu Tulis" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.808969141549838, -6.618352241484365]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Nurul Ikhlas" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.810478466464261, -6.613223609352728]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Zulfa Noor" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.803699599298284, -6.603628344907089]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Al Hidayah" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.817867962657033, -6.615700414437382]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Baitusalam" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.795035746875953, -6.597586705251667]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Asyaadah" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.793980420623285, -6.600166883406403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Balaikota" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.793405190380724, -6.595331785570013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Kejaksaan Bogor" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.794369807249012, -6.593652676919634]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Kifayatul Abidin" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.801956209178542, -6.597573518616696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Annur" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.797525258526335, -6.605429920054688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Darussalam" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.806240240297114, -6.591994280347102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Amanah" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.795271315770378, -6.603684731949075]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": null, "NAMOBJ": "Masjid Sindang Resmi" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.801502134519197, -6.609757548806223]
+			}
+		}
+	]
+}
